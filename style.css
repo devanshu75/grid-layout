@@ -21,6 +21,7 @@ body {
 @media screen and (min-width: 1401px) {
   .xxl {
     background-color: #457b9d;
+    margin: 10px;
   }
   .col-xxl-12 {
     grid-column: 1 / -1;
@@ -74,6 +75,7 @@ body {
 @media screen and (min-width: 1201px) and (max-width: 1400px) {
   .xl {
     background-color: #a8dadc;
+    margin: 8px;
   }
   .col-xl-12 {
     grid-column: 1 / -1;
@@ -127,6 +129,7 @@ body {
 @media screen and (min-width: 993px) and (max-width: 1200px) {
   .lg {
     background-color: #1d3557;
+    margin: 5px;
   }
 
   .col-lg-12 {
@@ -181,6 +184,7 @@ body {
 @media screen and (min-width: 769px) and (max-width: 992px) {
   .md {
     background-color: #e63946;
+    margin: 3px;
   }
 
   .col-md-12 {
@@ -235,6 +239,7 @@ body {
 @media screen and (min-width: 569px) and (max-width: 768px) {
   .sm {
     background-color: #37323e;
+    margin: 2px;
   }
   .col-sm-12 {
     grid-column: 1 / -1;
@@ -288,6 +293,7 @@ body {
 @media screen and (max-width: 568px) {
   .xs {
     background-color: #de9e36;
+    margin: 1px;
   }
 
   .col-xs-12 {
